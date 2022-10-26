@@ -1,4 +1,4 @@
-### Hello World! I'm Vinícius! 🦉
+### Hello World! I'm Vinícius!
 
 <div align="center">
   <a href="https://github.com/ViniciussMMedeiros">
