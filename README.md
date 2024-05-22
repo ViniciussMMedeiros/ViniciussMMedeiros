@@ -1,4 +1,5 @@
-### Hello World! I'm Vinícius!
+### I'm Vinícius!
+Computer science undergraduate.
 
 <div align="center">
   <a href="https://github.com/ViniciussMMedeiros">
